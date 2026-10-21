@@ -4,7 +4,8 @@ Backend Python-разработчик. Учусь. Пишу пет-проект�
 
 ---
 
-## 🛠 Стек
+<details>
+<summary>🛠 Стек</summary>
 
 **Backend:**
 - Python 3.13
@@ -22,9 +23,10 @@ Backend Python-разработчик. Учусь. Пишу пет-проект�
 - Bootstrap 4
 - HTML, CSS
 
----
+</details>
 
-## 📌 Проект
+<details>
+<summary>📌 Проект</summary>
 
 **[CodnitoWeb](https://github.com/Ziggil/project_my_individual)** — образовательная платформа по основам Web-разработки со статьями и тестами.
 
@@ -33,9 +35,10 @@ Backend Python-разработчик. Учусь. Пишу пет-проект�
 - AJAX-регистрация и логин
 - Документация: [docs/](https://github.com/Ziggil/project_my_individual/tree/h_quiz_v8_postgresql_drf/docs)
 
----
+</details>
 
-## 🚀 Планы на изучение
+<details>
+<summary>🚀 Планы на изучение</summary>
 
 - **Docker** — контейнеризация проекта.
 - **CI/CD** — автоматизация через GitHub Actions.
@@ -45,9 +48,10 @@ Backend Python-разработчик. Учусь. Пишу пет-проект�
 
 Цель: стать специалистом на стыке **Backend Python/C#**, **DevOps** и **аналитики**.
 
----
+</details>
 
-## 📝 Пишу статьи
+<details>
+<summary>📝 Пишу статьи</summary>
 
 Рассказываю о разработке проекта: переезд на PostgreSQL, переход на DRF, Docker.
 
@@ -58,6 +62,8 @@ Backend Python-разработчик. Учусь. Пишу пет-проект�
 **На Хабре** (могут быть недоступны из-за модерации):
 
 🔗 [habr.com/ru/users/Ziggillo](https://habr.com/ru/users/Ziggillo/)
+
+</details>
 
 ---
 
