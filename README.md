@@ -57,7 +57,7 @@ Backend Python-разработчик. Учусь. Пишу пет-проект�
 
 **Статьи в проекте на GitHub** — здесь они всегда доступны:
 
-🔗 [Все статьи проекта](https://github.com/Ziggil/project_my_individual/tree/h_quiz_v8_postgresql_drf/docs/articles)
+🔗 [Все статьи проекта]("https://ziggil.github.io/my_blog_v2/")
 
 **На Хабре** (могут быть недоступны из-за модерации):
 
