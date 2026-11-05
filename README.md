@@ -39,8 +39,7 @@ Backend Python-разработчик. Учусь. Пишу пет-проект�
 
 <details>
 <summary>🚀 Планы на изучение</summary>
-
-- **Docker** — контейнеризация проекта.
+  
 - **CI/CD** — автоматизация через GitHub Actions.
 - **C# и .NET Core** — второй язык для бэкенда.
 - **Микросервисы** — ASP.NET Core + FastAPI.
