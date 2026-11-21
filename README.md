@@ -68,6 +68,6 @@ Backend Python-разработчик. Учусь. Пишу пет-проект�
 
 ## 📫 Связаться со мной
 
-- **Email:** 23zahar051982 (at) gmail (dot) com
+- **Email:** ZaharTrofProger (at) gmail (dot) com
 - **GitHub:** [@Ziggil](https://github.com/Ziggil)
 - **Хабр:** [@Ziggillo](https://habr.com/ru/users/Ziggillo/)
