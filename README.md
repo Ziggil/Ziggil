@@ -67,8 +67,8 @@ Backend Python-разработчик. Учусь. Пишу пет-проект�
 <details>
 <summary>Мои соцсети</summary>
 
-** Группа в вк: **
-  <summary>📝 Пишу статьи</summary>
+**Группа в ВК:** [https://vk.ru/codnito_zero_it](https://vk.ru/codnito_zero_it)
+
 </details>
 
 ---
