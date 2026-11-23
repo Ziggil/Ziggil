@@ -64,6 +64,13 @@ Backend Python-разработчик. Учусь. Пишу пет-проект�
 
 </details>
 
+<details>
+<summary>Мои соцсети</summary>
+
+** Группа в вк: **
+  <summary>📝 Пишу статьи</summary>
+</details>
+
 ---
 
 ## 📫 Связаться со мной
